@@ -1,10 +1,14 @@
-this project base on python game.
-![Game image]()
+# this project base on python game.
+
+![Game Image](https://github.com/Enjoy0099/py_game/blob/82450c9fa25834775c74e2f0b8710a0518318f34/imges/END.png)
 
 # About Our Project
 
 In Our project, we created a simple Python game Using the Pygame module, tiled map editor, and some free assets.
 
+we created a simple space 2d game in which we control player movement like how players run, jump, etc.
+
+this game has a story, whom player will know the story during playing the game.
 
 
 # Pygame
@@ -23,3 +27,4 @@ This package can be installed from Pygame by running:
 
 [Download](https://www.mapeditor.org/download.html)
 
+# 
