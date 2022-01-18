@@ -10,6 +10,15 @@ we created a simple space 2d game in which we control player movement like how p
 
 This game has a story, which the players will know further during the gameplay.
 
+In the game project, we used some game sounds that you will find in the **sounds folder**.
+
+# Assets
+
+Character asset helps you create a complete map of the structure of your character model and link it to a motion source for animation. 
+
+In simple terms, the Character asset is to bring your character models into MotionBuilder and animate them.
+
+These characters will be found in the assets **asset folder**
 
 # Pygame
 
@@ -19,7 +28,7 @@ PyGame is a library of python language. It is used to develop 2-D games and is a
 
 This package can be installed from Pygame by running:
 
-[pip install pygame]() 
+**[pip install pygame]()**
 
 # Tiled map editor
 
