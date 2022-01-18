@@ -8,7 +8,7 @@ In Our project, we created a simple Python game Using the Pygame module, tiled m
 
 we created a simple space 2d game in which we control player movement like how players run, jump, etc.
 
-this game has a story, whom player will know the story during playing the game.
+This game has a story, which the players will know further during the gameplay.
 
 
 # Pygame
