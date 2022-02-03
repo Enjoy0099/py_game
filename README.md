@@ -32,6 +32,10 @@ This package can be installed from Pygame by running:
 
 # Tiled map editor
 
+If you want to play the game then first of all you must have to download this tilemap editor.
+
+If you don't download then, you won't be able to play this game.
+
 [About Tiled](https://doc.mapeditor.org/en/stable/manual/introduction/)
 
 [Download](https://www.mapeditor.org/download.html)
