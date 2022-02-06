@@ -1,4 +1,4 @@
-# this project base on python game.
+# This project base on python game.
 
 ![Game Image](https://github.com/Enjoy0099/py_game/blob/82450c9fa25834775c74e2f0b8710a0518318f34/imges/END.png)
 
@@ -40,4 +40,16 @@ If you don't download then, you won't be able to play this game.
 
 [Download](https://www.mapeditor.org/download.html)
 
-# 
+# Story
+This is a story-based game so let me tell you a short story.
+
+An alien go on a space trip. on this trip, The planet named **'Baby Blue'** comes on the way. When the alien was passing through this planet, at that time some kind of trouble comes in its spaceship. due to this, the alien has to make an emergency landing. 
+
+The spacecraft went out of control at the time of landing and due to this spacecraft crashed on the planet 'Baby Blue'. And then the alien sends emergency signals to his friends. because of which the friends of the aliens came to this planet to help him. and take it back to its planet.
+
+So now we will see whether the alien's friends come to this planet to help or not and if the alien's friends come, then by that time the alien will be able to survive on the difficulties of this new planet or not.
+
+This is a short story of the game and the game begins with this part of the story. And if you want to know about what happens next then you need to play this game and know what happens with this alien.
+
+so let's play the game!!
+
