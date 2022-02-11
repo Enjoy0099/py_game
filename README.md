@@ -1,4 +1,4 @@
-# This project base on python game.
+# Welcome to Game "Baby Blue"
 
 ![Game Image](https://github.com/Enjoy0099/py_game/blob/82450c9fa25834775c74e2f0b8710a0518318f34/imges/END.png)
 
