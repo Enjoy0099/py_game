@@ -28,13 +28,29 @@ PyGame is a library of python language. It is used to develop 2-D games and is a
 
 This package can be installed from Pygame by running:
 
-**[pip install pygame]()**
+`pip install pygame`
 
 # Tiled map editor
 
-If you want to play the game then first of all you must have to download this tilemap editor.
+Tiled is a general purpose tile map editor. It functions as a free tool to allow the easy creation of map layouts.
 
-If you don't download then, you won't be able to play this game.
+standardized **tmx** format.
+
+### How Does Tiled Work?
+
+At its core, the design process of using Tiled to create maps works by following these steps:
+
+1) Choose your map size and base tile size.
+
+2) Add tilesets from image(s).
+
+3) Place the tilesets on the map.
+
+4) Add any additional objects to represent something abstract.
+
+5) Save the map as a tmx file.
+
+6) Import the tmx file and interpret it for your game.
 
 [About Tiled](https://doc.mapeditor.org/en/stable/manual/introduction/)
 
