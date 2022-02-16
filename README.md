@@ -59,7 +59,7 @@ At its core, the design process of using Tiled to create maps works by following
 # Story
 This is a story-based game so let me tell you a short story.
 
-An alien go on a space trip. on this trip, The planet named **'Baby Blue'** comes on the way. When the alien was passing through this planet, at that time some kind of trouble comes in its spaceship. due to this, the alien has to make an emergency landing. 
+An alien go on a space trip. on this trip, The planet named  `Baby Blue` comes on the way. When the alien was passing through this planet, at that time some kind of trouble comes in its spaceship. due to this, the alien has to make an emergency landing. 
 
 The spacecraft went out of control at the time of landing and due to this spacecraft crashed on the planet 'Baby Blue'. And then the alien sends emergency signals to his friends. because of which the friends of the aliens came to this planet to help him. and take it back to its planet.
 
